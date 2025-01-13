@@ -1,4 +1,7 @@
 # FashionEbook
+Link do E-book:
+https://www.figma.com/proto/31Ej3ANZ1QdeVipWzuTKxV/Sistemas-Legados-e-Moderniza%C3%A7%C3%A3o?node-id=1902-153&t=hUFB3sHYeIOlteP4-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1902%3A153
+
 Criação de ebook utilizando inteligência artificial, como parte da entrega de projeto do Bootcamp CAIXA - IA Generativa com Microsoft Copilot
 
 # Prompts Utilizados
